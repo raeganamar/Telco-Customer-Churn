@@ -49,7 +49,7 @@ Menganalisis faktor-faktor yang memengaruhi customer churn serta membangun model
 ---
 
 ## 💡 Business Recommendations
-- Fokus retention pada pelanggan baru (< X bulan)  
+- Fokus retention pada pelanggan baru yang jenis contract bulanan  
 - Tawarkan paket kontrak jangka panjang  
 - Optimalkan layanan tambahan untuk meningkatkan engagement  
 
