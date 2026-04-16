@@ -19,7 +19,7 @@ Menganalisis faktor-faktor yang memengaruhi customer churn serta membangun model
 
 ## 📁 Dataset Information
 - Source: Telco Customer Dataset  
-- Jumlah data: XXXX rows, XXXX columns  
+- Jumlah data: 7043 rows, 21 columns  
 - Target variable: `Churn`  
 
 ---
